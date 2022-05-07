@@ -51,10 +51,6 @@ i++;
 }
 printf("cost of mincost spannig tree:%d\n",mincost);
 }
-
-
-
-
 void main()
 {
 int i,j;
